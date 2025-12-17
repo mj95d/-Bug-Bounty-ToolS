@@ -1,0 +1,77 @@
+# Ignore files for Git
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (if any Python tools are added)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Results and logs (user data)
+bb-results/
+*.log
+results/
+temp/
+tmp/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Tool binaries (will be installed via script)
+tools/
+bin/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Configuration files (user-specific)
+config.local
+.env
+*.config
+
+# Test outputs
+test-results/
+coverage/
+
+# Documentation build
+docs/_build/
+docs/.doctrees/
+
+# Package files
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+
+# Core dumps
+core
+core.*
+
+# Node.js (if any JS components)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
