@@ -2,11 +2,11 @@
 
 💀 **Professional Bug Bounty Reconnaissance Toolkit** 🔥
 
-## 🎯 Overview
+##  Overview
 
 **Abdulmajeed Big Hunter Tools** is an enterprise-grade, professional bash toolkit designed for safe and automated bug bounty reconnaissance. This tool automates the entire reconnaissance workflow while maintaining strict safety protocols.
 
-## ✨ Features
+##  Features
 
 ### **Epic Visual Experience**
 - **Matrix-style rain effect** on startup
