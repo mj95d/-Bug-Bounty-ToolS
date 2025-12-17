@@ -8,26 +8,25 @@
 
 ## ✨ Features
 
-### 🎨 **Epic Visual Experience**
+### **Epic Visual Experience**
 - **Matrix-style rain effect** on startup
-- **Dual ASCII art banners** (Arabic & English)
 - **Professional color schemes** with status indicators
 - **Animated loading sequences** for each module
 - **Enterprise-grade UI/UX** design
 
-### 🔧 **Professional Tool Management**
+### **Professional Tool Management**
 - **Automated tool installation** and updates
 - **Go-based tool management** for ProjectDiscovery tools
 - **Dependency checking** and resolution
 - **Error handling** and recovery
 
-### 🛡️ **Safety & Compliance**
+### **Safety & Compliance**
 - **Authorization verification** before scanning
 - **Safe reconnaissance only** (no exploitation)
 - **Target validation** and sanitization
 - **Professional logging** and audit trails
 
-### 📊 **Complete Reconnaissance Pipeline**
+### **Complete Reconnaissance Pipeline**
 1. **Subdomain Enumeration** (Subfinder + Amass)
 2. **Live Host Discovery** (httpx)
 3. **URL Collection** (Gau / Waybackurls)
@@ -35,7 +34,7 @@
 5. **Vulnerability Scanning** (Nuclei - safe filters)
 6. **Automated Reporting** (Markdown format)
 
-## 🚀 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -51,7 +50,7 @@ chmod +x abdulmajeed_bighunter_tools.sh
 ./abdulmajeed_bighunter_tools.sh
 ```
 
-## 🎯 Usage
+## Usage
 
 ### Quick Start
 ```bash
@@ -73,7 +72,7 @@ chmod +x abdulmajeed_bighunter_tools.sh
 6. **Vulnerability Scanning** (Option 6)
 7. **Generate Report** (Option 8)
 
-## 📁 Output Structure
+##  Output Structure
 
 ```
 ~/bb-results/
@@ -88,7 +87,7 @@ chmod +x abdulmajeed_bighunter_tools.sh
         └── run.log            # Execution log
 ```
 
-## 🛠️ Required Tools
+##  Required Tools
 
 The toolkit automatically installs and manages:
 
@@ -101,23 +100,23 @@ The toolkit automatically installs and manages:
 - **ffuf** - Fuzzer
 - **amass** - Attack surface mapping
 
-## 🎨 Visual Experience
+## Visual Experience
 
 ### Startup Sequence
 ```
-🌧️ Matrix Rain Effect
+ Matrix Rain Effect
 💀 Epic ASCII Banner
 🔥 Loading Animations
 ⚡ System Initialization
 ```
 
 ### Status Indicators
-- ✅ **Success**: `[✓]` with green highlighting
-- ℹ️ **Info**: `[ℹ]` with cyan highlighting  
-- ⚠️ **Warning**: `[⚠]` with yellow highlighting
-- ❌ **Error**: `[✗]` with red highlighting
+-  **Success**: `[✓]` with green highlighting
+-  **Info**: `[ℹ]` with cyan highlighting  
+-  **Warning**: `[⚠]` with yellow highlighting
+-  **Error**: `[✗]` with red highlighting
 
-## 🔒 Safety Features
+##  Safety Features
 
 ### Authorization Checks
 - **Explicit confirmation** required before scanning
@@ -131,7 +130,7 @@ The toolkit automatically installs and manages:
 - **Rate limiting** and polite scanning
 - **Professional ethics** enforcement
 
-## 📊 Sample Report
+##  Sample Report
 
 ```markdown
 # Abdulmajeed Big Hunter Tools - Reconnaissance Report
@@ -153,7 +152,7 @@ The toolkit automatically installs and manages:
 [Medium] Information disclosure in headers
 ```
 
-## 🚀 Advanced Features
+##  Advanced Features
 
 ### Enterprise-Grade Logging
 - **Detailed execution logs** with timestamps
@@ -167,7 +166,7 @@ The toolkit automatically installs and manages:
 - **Progress indicators** and status updates
 - **Clean architecture** for maintainability
 
-## ⚠️ Legal Notice
+##  Legal Notice
 
 **IMPORTANT**: This tool is designed for authorized security testing only. Users must:
 
@@ -177,7 +176,7 @@ The toolkit automatically installs and manages:
 
 **Misuse of this tool for unauthorized scanning is illegal and strictly prohibited.**
 
-## 🎯 Target Audience
+##  Target Audience
 
 - **Bug Bounty Hunters**
 - **Security Researchers**
@@ -185,7 +184,7 @@ The toolkit automatically installs and manages:
 - **Security Consultants**
 - **Enterprise Security Teams**
 
-## 🔧 Technical Requirements
+##  Technical Requirements
 
 - **Operating System**: Linux (Kali Linux recommended)
 - **Memory**: Minimum 4GB RAM
@@ -193,7 +192,7 @@ The toolkit automatically installs and manages:
 - **Network**: Stable internet connection
 - **Permissions**: Sudo access for tool installation
 
-## 🎨 Customization
+##  Customization
 
 The tool can be customized by modifying:
 - **Color schemes** in the banner function
@@ -201,7 +200,7 @@ The tool can be customized by modifying:
 - **Report templates** in the generate_report function
 - **Installation sources** in the tool management functions
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit:
 - Bug reports
@@ -209,16 +208,10 @@ Contributions are welcome! Please feel free to submit:
 - Code improvements
 - Documentation updates
 
-## 📞 Support
 
-For support and questions:
-- **Issues**: Use GitHub Issues
-- **Discussions**: Use GitHub Discussions
-- **Email**: Contact through GitHub profile
+##  Credits
 
-## 🏆 Credits
-
-**Abdulmajeed Big Hunter** - Creator and maintainer
+**Abdulmajeed Hunter** - Creator and maintainer
 
 **Special thanks to**:
 - ProjectDiscovery team for their amazing tools
